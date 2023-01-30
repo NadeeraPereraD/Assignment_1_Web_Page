@@ -6,8 +6,8 @@
 
 ## Software
 * Bullet list
-Visual Studio Code
-HTML
-CSS
-BootStrap 4.2
+* Visual Studio Code
+* HTML
+* CSS
+* BootStrap 4.2
 
