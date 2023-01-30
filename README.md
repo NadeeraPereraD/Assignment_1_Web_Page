@@ -5,7 +5,6 @@
 ** This is small single page web designing for the Assignment 01 of the Web Development Programme **
 
 ## Software
-* Bullet list
 * Visual Studio Code
 * HTML
 * CSS
